@@ -32,6 +32,8 @@ function binarySearchIndex(array, target, lo=0, hi=array.length-1) {
     }
 }
 
+// search index
+
 
 module.exports = {
     binarySearch,
