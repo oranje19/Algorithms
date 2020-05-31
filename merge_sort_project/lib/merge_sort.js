@@ -14,6 +14,7 @@ function merge(array1, array2) {
 
        merged.push(next);
    }
+   
    return merged;
 }
 
